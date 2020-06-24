@@ -1,3 +1,4 @@
+//Lab3
 public class ArraySquashExercise{
 
     /**
